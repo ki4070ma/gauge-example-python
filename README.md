@@ -24,7 +24,7 @@ This project uses
       brew install gauge
       ```
   - [Download Installer](http://getgauge.io/download.html)
-- [Install Gauge-Python plugin](gauge-python.readthedocs.io/en/latest/installation.html) by running<br>
+- [Install Gauge-Python plugin](https://gauge-python.readthedocs.io/en/latest/installation.html) by running<br>
 ```
 gauge --install python
 [pip / pip3] install getgauge
