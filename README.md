@@ -28,6 +28,7 @@ This project uses
   ````
   gauge --install python
   ````
+- Google Chrome
 
 ## Setting up the System Under Test (SUT)
 
