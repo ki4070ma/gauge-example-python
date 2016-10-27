@@ -11,7 +11,7 @@ This project uses
 
 - Use [Webdriver](http://docs.seleniumhq.org/projects/webdriver/) as base of implementation
 - [Concepts](http://getgauge.io/documentation/user/current/specifications/concepts.html)
-- [Specification](http://getgauge.io/documentation/user/current/specifications/README.html), [Scenario](http://getgauge.io/documentation/user/current/specifications/scenarios.html) & [Step](http://getgauge.io/documentation/user/current/specifications/steps.html) usage
+- [Specification](http://getgauge.io/documentation/user/current/gauge_terminologies/specifications.html), [Scenario](http://getgauge.io/documentation/user/current/specifications/scenarios.html) & [Step](http://getgauge.io/documentation/user/current/specifications/steps.html) usage
 - [Table driven execution](http://getgauge.io/documentation/user/current/execution/table_driven_execution.html)
 - [External datasource (special param)](http://getgauge.io/documentation/user/current/specifications/parameters.html#special-parameters)
 
