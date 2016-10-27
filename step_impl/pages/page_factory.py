@@ -21,7 +21,7 @@ class PageFactory:
 
 @before_suite
 def init():
-    PageFactory.driver = webdriver.Firefox()
+    PageFactory.driver = webdriver.Chrome()
     PageFactory.list_page = ProductListPage(PageFactory.driver)
     PageFactory.create_page = CreateProductPage(PageFactory.driver)
     PageFactory.product_page = ProductPage(PageFactory.driver)

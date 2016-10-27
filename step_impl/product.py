@@ -61,7 +61,7 @@ def open_product_edit_page():
 def update_product(table):
     for row in table:
         PageFactory.edit_page.set_attribute_value(row[0], row[1])
-        PageFactory.edit_page.save()
+    PageFactory.edit_page.save()
 
 
 @step('Check product specifier has new value <table>')
