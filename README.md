@@ -25,9 +25,10 @@ This project uses
       ```
   - [Download Installer](http://getgauge.io/download.html)
 - [Install Gauge-Python plugin](https://github.com/kashishm/gauge-python/wiki/User-Documentation) by running<br>
-  ````
-  gauge --install python
-  ````
+    ```
+    gauge --install python
+    [pip / pip3] install getgauge
+    ```
 - Google Chrome
 
 ## Setting up the System Under Test (SUT)
@@ -47,6 +48,12 @@ This project requires pip to install dependencies. To install dependencies run :
 ````
 pip install -r requirements.txt
 ````
+
+Run the following command to install chromedriver, if it fails then download it from [here](http://chromedriver.storage.googleapis.com/index.html) and add it to the `PATH` variable.
+
+```
+[pip / pip3] install chromedriver_installer
+```
 
 ### All specs
 ````
