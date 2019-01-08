@@ -57,6 +57,6 @@ Run the following command to install chromedriver, if it fails then download it 
 
 ### All specs
 ````
-gauge specs
+gauge run specs
 ````
 This will also compile all the supporting code implementations.
